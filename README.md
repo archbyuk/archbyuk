@@ -1,6 +1,6 @@
 ## JUNG JINUK
 
-<img align="left" width="60%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=100&color=4a5568&center=false&vCenter=true&width=400&lines=Junior+Frontend+Developer;Future+Architect" alt="Typing SVG" />
+<img align="left" width="60%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=100&color=4a5568&center=false&vCenter=true&width=400&lines=Junior+Developer;Future+Architect" alt="Typing SVG" />
 
 <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=archbyuk&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=24292e&text_color=586069&icon_color=959da5" />
 
