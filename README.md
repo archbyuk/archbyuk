@@ -6,4 +6,4 @@
 
 ***단순히 코드를 작성하는 것을 넘어, 구조를 이해하고 문제를 해결하는 시스템적 사고를 좋아합니다.***
 
-[![Portfolio](https://img.shields.io/badge/🔗-My%20Website-blue)](https://your-website-domain.com)
+[![Resume](https://img.shields.io/badge/🔗-My%20Website-blue)](jinuk-resume.vercel.app)
